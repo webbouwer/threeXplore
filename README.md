@@ -1,5 +1,5 @@
-# threescaper
+# threeXplore
 
-A website for loading Townscaper models into three.js.
+A webpage for loading Object models into three.js.
 
-Visit the [live demo here](https://meliharvey.github.io/threescaper/)!
+Forked from [threejs townscaper explorer tool](https://meliharvey.github.io/threescaper/)!
